@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "ziva",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "ziva",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "Admin#21",
+    "database": "ziva",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "S3": {
+    "region": "ap-south-1",
+    "IdentityPoolId":"ap-south-1:657a71be-f8c5-4f76-854f-edcb62c499a4",
+    "Bucket": "zivasworld",
+    "AccessKey": "AKIAU3ZLPDZHWQ45VC54",
+    "SecretKey" : "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"
+  }
+}
