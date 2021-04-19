@@ -25,10 +25,10 @@
     "operatorsAliases": false
   },
   "S3": {
-    "region": "ap-south-1",
-    "IdentityPoolId":"ap-south-1:657a71be-f8c5-4f76-854f-edcb62c499a4",
-    "Bucket": "zivasworld",
-    "AccessKey": "AKIAU3ZLPDZHWQ45VC54",
-    "SecretKey" : "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"
+    "region": "",
+    "IdentityPoolId":"",
+    "Bucket": "",
+    "AccessKey": "",
+    "SecretKey" : ""
   }
 }
